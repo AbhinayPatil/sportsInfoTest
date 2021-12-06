@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:stretchColumns="1,2,3,4,5,6">
+
+    <TableRow android:background="#03A9F4">
+
+        <TextView
+            android:id="@+id/table_id"
+            android:layout_column="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:textColor="#FFFFFF"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/table_points"
+            android:layout_column="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:textColor="#F8F8F8"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/table_won"
+            android:layout_column="1"
+            android:gravity="left"
+            android:padding="0dp"
+            android:textColor="#FFFFFF"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/table_lost"
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="3dp"
+            android:textColor="#FFFEFE"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/table_draw"
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="3dp"
+            android:textColor="#FFFEFE"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/table_gd"
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="3dp"
+            android:textColor="#FFFFFF"
+            android:textSize="16dp"></TextView>
+    </TableRow>
+
+</TableLayout>

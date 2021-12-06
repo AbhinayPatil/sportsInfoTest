@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/drawable/bg.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/drawable/bottomcurvedbox.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/drawable/cornercurvedbox.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_basketballmain.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_copa_select.xml" value="0.22735507246376813" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_eufa_select.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_football_fixtures.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_footballselect.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_footballtable.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_isl_select.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_legue_football.xml" value="0.264" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_nbaselect.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_ofc_select.xml" value="0.22735507246376813" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_rc_isl_teams.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_rc_nba_fixtures.xml" value="0.2251655629139073" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_rc_nba_teams.xml" value="0.264" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/activity_splash_screen.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/footballfixturelayout.xml" value="0.536" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/islteams.xml" value="0.264" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/nbafixtures.xml" value="0.4" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/nbateams.xml" value="0.264" />
+        <entry key="..\:/Users/Abhinay/Desktop/SportsInfo/app/src/main/res/layout/tableres.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

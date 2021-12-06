@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SportsInfo</string>
+    <string name="paragraph">The National Basketball Association (NBA) is a professional basketball league in North America. The league is composed of 30 teams (29 in the United States and 1 in Canada) and is one of the four major professional sports leagues in the United States and Canada. It is the premier men\'s professional basketball league in the world.
+The league was founded in New York City on June 6, 1946, as the Basketball Association of America (BAA). It changed its name to the National Basketball Association on August 3, 1949, after merging with the competing National Basketball League (NBL). The NBA\'s regular season runs from October to April, with each team playing 82 games. The league\'s playoff tournament extends into June. As of 2020, NBA players are the world\'s best paid athletes by average annual salary per player.
+The NBA is an active member of USA Basketball (USAB), which is recognized by the FIBA (International Basketball Federation) as the national governing body for basketball in the United States.
+
+</string>
+    <string name="islinfo">The Indian Super League (ISL) is a men\'s professional football league, which is the highest level league in Indian football system. It is organised by All India Football Federation and their commercial partners Football Sports Development Limited. For sponsorship ties with Hero MotoCorp, it is officially called Hero Indian Super League.
+
+The league currently comprises 11 clubs. Each season of the tournament generally runs from November to March. During the league stage of the competition, each club plays against all the other clubs in a round-robin style. At the end of the league stage, the team with the most points gets declared the Premiers and presented with a trophy named League Winners Shield, and the top four clubs qualify for the play-offs. The season then culminates with the ISL Final to determine the Champions who are presented with the ISL Trophy.</string>
+    <string name="info">The UEFA Champions League (abbreviated as UCL) is an annual club football competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs, deciding the competition winners through a round robin group stage to qualify for a double-legged knockout format, and a single leg final. It is one of the most prestigious football tournaments in the world and the most prestigious club competition in European football, played by the national league champions (and, for some nations, one or more runners-up) of their national associations.
+
+Introduced in 1955 as the Coupe des Clubs Champions European’s (French for European Champion Clubs Cup), and commonly known as the European Cup, it was initially a straight knockout tournament open only to the champions of Europe\'s domestic leagues, with its winner reckoned as the European club champion.
+
+    </string>
+    <string name="copa">Copa America (English: America Cup) or CONMEBOL Copa America, known until 1975 as the South American Football Championship (Campeonato Sudamericano de Fútbol in Spanish and Copa Sul-Americana de Futebol in Portuguese), is the main men\'s football tournament contested among national teams from South America. It is the oldest still-running continental football competition, as well as the third most watched in the world. The competition determines the champions of South America. Since the 1990s, teams from North America and Asia have also been invited to compete.
+
+Since 1993, the tournament has generally featured 12 teams—all 10 CONMEBOL teams and two additional teams from other confederations. Mexico participated in every tournament between 1993 and 2016, with one additional team drawn from CONCACAF, except for 1999, when AFC team Japan filled out the 12-team roster, and 2019, which featured Japan and Qatar.
+
+    </string>
+
+</resources>

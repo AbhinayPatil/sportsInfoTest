@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginBottom="8dp"
+    android:background="#00BCD4"
+    android:stretchColumns="1,2,3,4,5,6"
+    tools:context=".footballtable">
+
+    <TableRow android:background="#3F51B5">
+
+        <TextView
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="ID"
+            android:textColor="#FFFFFF"
+            android:textSize="16dp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="Points"
+            android:textColor="#FBFBFB"
+            android:textSize="16dp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="Won"
+            android:textColor="#FFFFFF"
+            android:textSize="16dp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="Lost"
+            android:textColor="#FFFFFF"
+            android:textSize="16dp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="Draw"
+            android:textColor="#FFFFFF"
+            android:textSize="16dp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="GD"
+            android:textColor="#FFFFFF"
+            android:textSize="16dp"
+            android:textStyle="bold"></TextView>
+    </TableRow>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/table_rc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".footballtable">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</TableLayout>
